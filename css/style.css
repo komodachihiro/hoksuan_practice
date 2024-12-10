@@ -563,10 +563,11 @@ text-align: center;
 san
 -------------------------------------------*/
 
-.san p{
-	font-weight: 700;
-	font-size: 35px;
-	margin-bottom: 50px;
+.san{
+font-weight: 700;
+font-size: 35px;
+margin-bottom: 50px;
+margin-left: 100px;
 }
 
 
