@@ -559,15 +559,12 @@ text-align: center;
 
   }
 
-/*-------------------------------------------
-san
--------------------------------------------*/
 
-.san{
+.san p{
 font-weight: 700;
-font-size: 35px;
+font-size: 30px;
 margin-bottom: 50px;
-margin-left: 100px;
+margin-left: 500px;
 }
 
 
